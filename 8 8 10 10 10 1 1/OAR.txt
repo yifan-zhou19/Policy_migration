@@ -1,0 +1,8 @@
+rattrib0={0w},rattrib2={2w},rattrib3={3w},rattrib4={4w},rattrib6={6w},rattrib7={7w},rattrib8={8w},rattrib9={9w}
+rattrib0={0w},rattrib3={3w},rattrib5={5w},rattrib7={7w},rattrib8={8w},rattrib9={9w}
+rattrib1={1w},rattrib4={4w},rattrib5={5w},rattrib6={6w},rattrib7={7w},
+rattrib0={0w},rattrib1={1w},rattrib3={3w},rattrib4={4w},rattrib5={5w},rattrib6={6w},rattrib7={7w},rattrib8={8w},rattrib9={9w}
+rattrib0={0w},rattrib2={2w},rattrib3={3w},rattrib4={4w},rattrib5={5w},rattrib6={6w},rattrib7={7w},rattrib8={8w},rattrib9={9w}
+rattrib0={0w},rattrib1={1w},rattrib2={2w},rattrib3={3w},rattrib4={4w},rattrib5={5w},rattrib6={6w},rattrib7={7w},rattrib8={8w},rattrib9={9w}
+rattrib0={0w},rattrib1={1w},rattrib2={2w},rattrib3={3w},rattrib4={4w},rattrib5={5w},rattrib6={6w},rattrib7={7w},rattrib8={8w},rattrib9={9w}
+rattrib0={0w},rattrib1={1w},rattrib2={2w},rattrib3={3w},rattrib4={4w},rattrib5={5w},rattrib6={6w},rattrib7={7w},rattrib8={8w},rattrib9={9w}

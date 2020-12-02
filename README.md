@@ -7,4 +7,4 @@ software/index.html
 
 Migration_evaluation migrates the RBAC rules the randomly generated ABAC datasets.
 
-6 datasets are also provides. The name of each file contains 6 parameters which are used in the data ganerator. They represent the number of users, the number of resources, the number of user attributes, the number of resource attributes, the number of policies, DIV_factor and the number of possible values for each attribues.
+6 datasets are also provided. The name of each file contains 6 parameters which are used in the data ganerator. They represent the number of users, the number of resources, the number of user attributes, the number of resource attributes, the number of policies, DIV_factor and the number of possible values for each attribues.

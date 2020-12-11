@@ -22,7 +22,7 @@ public class datagenerator {
         private static int DIV_FACTOR;
         private static int group;
 
-        private static String path = "C:/Users/Zhou/Desktop/CodeFiles_t/";
+        private static String path = // file path "C:/Users/****/Desktop/CodeFiles_t/";
 
         /**
          * @param args the command line arguments
@@ -118,7 +118,7 @@ public class datagenerator {
                         //---------------------------------------------
                         // pick some number of user attribs
 						
-						// Making sure no duplicated attributes.
+			// Making sure no duplicated attributes.
                         for (int j=0; j<num_rule_u_attrs; j++) {
                                 int pos = r.nextInt(tempuattribs.size());
                                 Object temp = tempuattribs.remove(pos);
@@ -131,7 +131,7 @@ public class datagenerator {
                         }
                         // pick some number of object attribs
 						
-						// Making sure no duplicated attributes.
+			// Making sure no duplicated attributes.
                         for (int j=0; j<num_rule_o_attrs; j++) {
                                 int pos = r.nextInt(tempoattribs.size());
                                 Object temp = tempoattribs.remove(pos);

@@ -6,7 +6,7 @@ In this project, we use the data generator(datagenerator.java) from “Enabling 
 
 The motivation for modifing the data generator is that the original version does not intentionally generate ABAC rules with hierarchy. In our project, we want to test the performance of the migration on generating roles with hierarchy, namely the RBAC_1 model. So, we prefer to randomly generate ABAC rules with hierarchy. By saying ABAC rules with hierarchy, we refer to a set of rules which the set of attribute constraints from one ABAC rule(e.g. Rule A) is the superset of the set of attribute constraints from another rule (e.g. Rule B). And the set of permissions from Rule A is also the superset of that from Rule B. 
 
-For example, # <[agegroup=teen],[videotype=premium],[view]> # and <[agegroup=teen,usertype=member],[videotype=premium],[view,share]> means that teenage users can only view the premium videos and teenage users who are also members can view and share the premium videos.
+For example, <[agegroup=teen],[videotype=premium],[view]>  and <[agegroup=teen,usertype=member],[videotype=premium],[view,share]> means that teenage users can only view the premium videos and teenage users who are also members can view and share the premium videos.
 
 Files Uni_matrix and Video_matrix are two small demos, demonstrating the whole process of migration and evaluation using the two datasets(video and university) which can be accessed on https://www3.cs.stonybrook.edu/~stoller/
 software/index.html

@@ -1,0 +1,11 @@
+uattrib2={2a},uattrib3={3a},uattrib4={4c},uattrib7={7d},uattrib8={8a},uattrib9={9b}
+uattrib0={0a},uattrib1={1d},uattrib2={2b},uattrib3={3a},uattrib6={6a},uattrib8={8c},uattrib9={9c}
+uattrib1={1c},uattrib2={2b},uattrib4={4d},uattrib5={5d},uattrib6={6a},uattrib7={7b},uattrib8={8a},uattrib9={9b}
+uattrib1={1c},uattrib5={5b},uattrib6={6d},uattrib7={7d},uattrib9={9a}
+uattrib0={0a},uattrib1={1d},uattrib2={2d},uattrib3={3c},uattrib4={4c},uattrib5={5b},uattrib6={6d},uattrib7={7b},uattrib8={8c},uattrib9={9d}
+uattrib1={1a},uattrib3={3a},uattrib6={6a},uattrib7={7c},uattrib8={8b},
+uattrib0={0a},uattrib1={1a},uattrib3={3b},uattrib4={4a},uattrib5={5b},uattrib6={6a},uattrib7={7d},uattrib8={8a},uattrib9={9d}
+uattrib0={0c},uattrib1={1c},uattrib2={2c},uattrib3={3d},uattrib4={4a},uattrib5={5c},uattrib6={6d},uattrib7={7b},uattrib8={8d},uattrib9={9c}
+uattrib0={0d},uattrib1={1b},uattrib2={2b},uattrib3={3d},uattrib5={5a},uattrib6={6c},uattrib7={7c},uattrib8={8c},
+uattrib0={0b},uattrib1={1b},uattrib2={2d},uattrib3={3a},uattrib4={4b},uattrib5={5c},uattrib6={6a},uattrib7={7c},uattrib8={8d},uattrib9={9d}
+

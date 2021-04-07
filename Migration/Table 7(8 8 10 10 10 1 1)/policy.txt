@@ -1,0 +1,10 @@
+uattrib3={3a},uattrib9={9a},uattrib4={4a},rattrib7={7w},rattrib8={8w},rattrib2={2w},rattrib4={4w},rattrib6={6w},rattrib3={3w}
+uattrib6={6a},uattrib1={1a},uattrib9={9a},uattrib3={3a},rattrib7={7w},rattrib9={9w},rattrib5={5w}
+uattrib8={8a},uattrib7={7a},uattrib4={4a},uattrib9={9a},uattrib1={1a},uattrib5={5a},rattrib1={1w},rattrib5={5w}
+uattrib5={5a},uattrib6={6a},rattrib3={3w},rattrib9={9w},rattrib1={1w},rattrib0={0w},rattrib8={8w},rattrib7={7w},rattrib4={4w},rattrib5={5w}
+uattrib1={1a},uattrib3={3a},uattrib2={2a},uattrib0={0a},uattrib4={4a},uattrib8={8a},uattrib6={6a},uattrib5={5a},rattrib6={6w},rattrib4={4w},rattrib0={0w},rattrib9={9w},rattrib5={5w},rattrib3={3w},rattrib7={7w},rattrib8={8w},rattrib2={2w}
+uattrib1={1a},uattrib3={3a},uattrib2={2a},uattrib0={0a},uattrib4={4a},uattrib8={8a},uattrib6={6a},uattrib5={5a},uattrib9={9a},uattrib7={7a},rattrib6={6w},rattrib4={4w},rattrib0={0w},rattrib9={9w},rattrib5={5w},rattrib3={3w},rattrib7={7w},rattrib8={8w},rattrib2={2w},rattrib1={1w}
+uattrib1={1a},uattrib3={3a},uattrib2={2a},uattrib0={0a},uattrib4={4a},uattrib8={8a},uattrib6={6a},uattrib5={5a},uattrib7={7a},uattrib9={9a},rattrib6={6w},rattrib4={4w},rattrib0={0w},rattrib9={9w},rattrib5={5w},rattrib3={3w},rattrib7={7w},rattrib8={8w},rattrib2={2w},rattrib1={1w}
+uattrib5={5a},uattrib6={6a},uattrib8={8a},uattrib4={4a},uattrib1={1a},rattrib3={3w},rattrib9={9w},rattrib1={1w},rattrib0={0w},rattrib8={8w},rattrib7={7w},rattrib4={4w},rattrib5={5w},rattrib6={6w},rattrib2={2w}
+uattrib3={3a},uattrib9={9a},uattrib4={4a},uattrib2={2a},uattrib1={1a},uattrib7={7a},rattrib7={7w},rattrib8={8w},rattrib2={2w},rattrib4={4w},rattrib6={6w},rattrib3={3w},rattrib0={0w}
+uattrib3={3a},uattrib9={9a},uattrib4={4a},uattrib2={2a},uattrib5={5a},uattrib1={1a},rattrib7={7w},rattrib8={8w},rattrib2={2w},rattrib4={4w},rattrib6={6w},rattrib3={3w},rattrib9={9w}
